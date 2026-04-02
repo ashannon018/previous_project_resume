@@ -1,5 +1,8 @@
-# Mini project 
+# Work project
+![image info](./portfolio_sc0.png)
+![image info](./portfolio_sc1.png)
 
+# Mini project 
 ![image info](./mini_project_graph/01.png)
 ![image info](./mini_project_graph/03.png)
 ![image info](./mini_project_graph/04.png)
